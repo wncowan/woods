@@ -1,0 +1,11 @@
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/woods/bin/Debug/netcoreapp2.0/woods.deps.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/woods/bin/Debug/netcoreapp2.0/woods.runtimeconfig.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/woods/bin/Debug/netcoreapp2.0/woods.runtimeconfig.dev.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/woods/bin/Debug/netcoreapp2.0/woods.dll
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/woods/bin/Debug/netcoreapp2.0/woods.pdb
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/woods/obj/Debug/netcoreapp2.0/woods.csprojResolveAssemblyReference.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/woods/obj/Debug/netcoreapp2.0/woods.csproj.CoreCompileInputs.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/woods/obj/Debug/netcoreapp2.0/woods.AssemblyInfoInputs.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/woods/obj/Debug/netcoreapp2.0/woods.AssemblyInfo.cs
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/woods/obj/Debug/netcoreapp2.0/woods.dll
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/woods/obj/Debug/netcoreapp2.0/woods.pdb
